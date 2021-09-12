@@ -1,12 +1,60 @@
-# Gabriel Almeida
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gabriel Almeida!](https://www.linkedin.com/in/gabrielvieiraes/) 
 
-## Olá pessoal 👋
-Sou apaixonado por programação, a magia de poder colocar a sua solução em uma maquina é uma verdadeira magia. :crystal_ball: <br />
-Sou estudante que busca conhecimento para me tornar um excelente FullStack Developer :computer:
+<a href="https://www.linkedin.com/in/gabrielvieiraes/" target="_blank">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<br />
 
- :rocket:  &nbsp; Estou trabalhando somente nos meus projetos.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React, HTML, CSS E Javascript.
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, HTML, CSS , Javascript.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados e filmes de herois, fantasia, aventura.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvieiraes/)](https://www.linkedin.com/in/gabrielvieiraes/)
+### About Me
+👨‍🎓💻 I'm a student to Bachelor Engineering Computer.</br>
+🕵️ I'm currently learning ASP.NET Core. </br>
+👨‍💻 I'm passionate about Web, Mobile, Games Developer, I'm always looking for new things to learn. </br>
+
+### Languages and Tools:
+
+<a href="https://www.w3.org/html/" target="_blank">
+ <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+ <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</a>
+<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+<img align="left" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Jquery" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="AngularJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
+<a href="https://www.w3schools.com/cs" target="_blank"> 
+ <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</a>
+
+<img align="left" alt="DotNetCore" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="DotNet" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+
+<img align="left" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+
+<a href="https://git-scm.com/" target="_blank"> 
+ <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+
+<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+<br />
+
+### Softwares:
+<img align="left" alt="VsCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+<br />
+<br />
+<!--
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielvieiraes&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Gabriel's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielvieiraes&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+-->
