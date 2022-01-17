@@ -7,7 +7,6 @@
 
 ### About Me
 👨‍🎓💻 I'm a student to Bachelor Engineering Computer.</br>
-🕵️ I'm currently learning ASP.NET Core. </br>
 👨‍💻 I'm passionate about Web, Mobile, Games Developer, I'm always looking for new things to learn. </br>
 
 ### Languages and Tools:
