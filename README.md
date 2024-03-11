@@ -1,59 +1,48 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gabriel Almeida!](https://www.linkedin.com/in/gabrielvieiraes/) 
+## Sobre mim
 
-<a href="https://www.linkedin.com/in/gabrielvieiraes/" target="_blank">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Sou formado em Engenharia da Computação.
+- 💼 Trabalhando como Full Stack Developer na CubeTI.
+- 🌱 Aprendendo mais sobre Angular e SQL Server.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333.svg?style=flat&logo=visual-studio&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/gabrielvieiraes" title="Perfil do Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielvieiraes&theme=dracula&show_icons=true" />
 </a>
-<br />
 
-### About Me
-👨‍🎓💻 I'm a student to Bachelor Engineering Computer.</br>
-👨‍💻 I'm passionate about Web, Mobile, Games Developer, I'm always looking for new things to learn. </br>
+## Onde me encontrar
 
-### Languages and Tools:
-
-<a href="https://www.w3.org/html/" target="_blank">
- <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
- <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</a>
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-<img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Jquery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="AngularJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-
-<a href="https://www.w3schools.com/cs" target="_blank"> 
- <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</a>
-
-<img align="left" alt="DotNetCore" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="DotNet" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-
-<a href="https://git-scm.com/" target="_blank"> 
- <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br />
-<br />
-
-### Softwares:
-<img align="left" alt="VsCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-
-<br />
-<br />
-<!--
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielvieiraes&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Gabriel's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielvieiraes&layout=compact&langs_count=8&hide_border=true)
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
--->
+[![Linkedin](https://img.shields.io/badge/-gabrielvieiraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvieiraes/?locale=en_US)](https://www.linkedin.com/in/gabrielvieiraes/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-developer.gabriel.vieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer.gabriel.vieira@gmail.com)](mailto:developer.gabriel.vieira@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabrielvieiraes?label=follow&style=social)](https://github.com/gabrielvieiraes)
