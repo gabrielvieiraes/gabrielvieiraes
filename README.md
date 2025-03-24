@@ -2,8 +2,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Sou formado em Engenharia da Computação.
-- 💼 Trabalhando como Full Stack Developer na CubeTI.
-- 🌱 Aprendendo mais sobre Angular e SQL Server.
+- 💼 Trabalhando como Full Stack Developer.
+- 🌱 Aprendendo mais sobre Angular e .NET Core.
 
 ## Minhas Skills
 
